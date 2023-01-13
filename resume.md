@@ -14,7 +14,7 @@ Provide world class support to customers on the GitHub platform
 
 ## Skills
 
-React/Node JS/MySQL
+Python/React/Node JS/MySQL
 
 ### Education
 
